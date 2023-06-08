@@ -1,1 +1,1 @@
-showing my id
+printing groups of current user
