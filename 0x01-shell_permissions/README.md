@@ -1,1 +1,1 @@
-executing permission to the owner of file
+giving multiple permission
